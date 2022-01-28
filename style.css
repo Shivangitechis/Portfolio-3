@@ -26,15 +26,15 @@ about
   margin-bottom: 10px;
 }
 #about .name {
-  font-size: 20px;
+  font-size: 25px;
 }
 #about .vocation {
-  font-size: 18px;
-  color: rgb(10, 99, 104);
+  font-size: 22px;
+  color: rgb(88, 21, 25);
   margin-bottom: 10px;
 }
 #about .skills {
-  font-size: 15px;
+  font-size: 20px;
   color: black;
   margin-bottom: 10px;
 }
@@ -48,4 +48,38 @@ about
 }
 #about .icons a {
   color: rgb(22, 7, 7);
+}
+/* 
+paragrapgh and headingds
+ */
+p {
+  font-size: 23px;
+  margin-bottom: 10px;
+  color: black;
+}
+h2 {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 20px;
+}
+a.font-black {
+  color: black;
+}
+/* 
+project section
+project area
+*/
+
+#project {
+  margin: 60px auto;
+  width: 80%;
+}
+#project h2 {
+  text-align: center;
+}
+#project .card img {
+  width: 100%;
+}
+#project .card-titile {
+  font-weight: bold;
 }
