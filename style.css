@@ -1,0 +1,14 @@
+/* 
+
+*/
+body {
+  font-family: monospace, sans-serif;
+}
+
+.font-primary {
+  color: aqua;
+}
+.title-icon {
+  font-size: 20px;
+  font-weight: bold;
+}
