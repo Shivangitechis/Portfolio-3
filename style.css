@@ -12,3 +12,40 @@ body {
   font-size: 20px;
   font-weight: bold;
 }
+/* 
+about
+ */
+#about {
+  margin: 60px auto;
+  max-width: 400px;
+  text-align: center;
+}
+#about img {
+  border-radius: 20%;
+  width: 120px;
+  margin-bottom: 10px;
+}
+#about .name {
+  font-size: 20px;
+}
+#about .vocation {
+  font-size: 18px;
+  color: rgb(10, 99, 104);
+  margin-bottom: 10px;
+}
+#about .skills {
+  font-size: 15px;
+  color: black;
+  margin-bottom: 10px;
+}
+#about .email {
+  font-size: 20px;
+  margin-top: 30px;
+}
+#about .icons {
+  margin-top: 20px;
+  font-size: 25px;
+}
+#about .icons a {
+  color: rgb(22, 7, 7);
+}
